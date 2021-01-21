@@ -70,7 +70,7 @@
     "purify-css": "^1.2.5",
     "purifycss-webpack": "^0.7.0",
     "sass-loader": "^6.0.6",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.4.0",
     "style-loader": "^0.19.0",
     "uglifyjs-webpack-plugin": "^1.0.0-beta.3",
     "vue": "^2.5.7",
